@@ -1,16 +1,30 @@
-## Hi there 👋
+![Evvil — Data, LLM & Workflows](assets/evvil-banner.png)
 
-<!--
-**MikeMcqueen83/MikeMcqueen83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cześć,👋
 
-Here are some ideas to get you started:
+Buduję projekty, które wykorzystują duże modele językowe (LLM) do pracy z danymi — ich porządkowania, przekształcania, analizy i wydobywania z nich użytecznych informacji.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tworzę też narzędzia do organizacji pracy z LLM i agentami AI: planowania zadań, koordynowania działań i śledzenia postępów. Zależy mi na tym, by AI pomagała przejść od pomysłu do sprawdzalnego rezultatu, a użytkownik zachowywał kontrolę nad procesem.
+
+W moich projektach łączę eksperymentowanie z praktycznym zastosowaniem: mniej powtarzalnych czynności, łatwiejsza praca z informacją i więcej czasu na to, co wymaga ludzkiej decyzji.
+
+
+## Hi, 👋
+
+I build projects that use large language models (LLMs) to work with data — organizing, transforming, analyzing, and turning it into useful information.
+
+I also create tools for organizing work with LLMs and AI agents: planning tasks, coordinating activities, and tracking progress. My goal is to help people move from an idea to a verifiable result while keeping control of the process.
+
+My projects combine experimentation with practical applications: fewer repetitive tasks, easier access to useful information, and more time for decisions that need human judgment.
+
+
+## ☕ Wesprzyj moje projekty / Support my projects
+
+Jeśli moje projekty Ci się przydają, możesz postawić mi kawę i pomóc w ich dalszym rozwoju. Dzięki za wsparcie!
+
+If you find my projects useful, consider buying me a coffee to support their continued development. Thank you!
+
+
+<a href="https://buycoffee.to/evvil" target="_blank">
+  <img src="https://buycoffee.to/static/img/share/share-button-dark--pl.png" width="351" height="92" alt="Postaw kawę / Buy Evvil a coffee">
+</a>
