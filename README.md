@@ -1,4 +1,4 @@
-![Evvil — Data, LLM & Workflows](https://github.com/MikeMcqueen83/MikeMcqueen83/assets/evvil-banner.png)
+![Evvil — Data, LLM & Workflows]([https://github.com/MikeMcqueen83/MikeMcqueen83/assets/evvil-banner.png](https://github.com/MikeMcqueen83/MikeMcqueen83/blob/main/assets/evvil_banner.png))
 
 ## Cześć,👋
 
